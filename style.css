@@ -1,0 +1,138 @@
+#body{
+  background-color: peachpuff;
+  display: inline;
+  float: none;
+  color: gray;
+}
+#list1 li {
+  list-style: none;
+  display: inline-block;
+  padding: 10px;
+  width: 200px;
+  border: solid teal 4px;
+  float: left;
+  margin-right: 95px;
+  margin-left: 95px;
+  font-family: fantasy;
+  background-color: #ccc;
+}
+
+
+#heading {
+  color: #c74;
+  font-size: 34;
+  font-family: fantasy;
+  float: none;
+  margin-left: 530px;
+  margin-right: 500px;
+}
+
+#heading2 {
+  font-family: fantasy;
+  float: left;
+  margin-left: 580px;
+  margin-right: 580px;
+}
+
+#heading3{
+  color: gray;
+}
+#body {
+  float: none;
+  margin: 200px;
+  padding: 0px;
+}
+
+#eventlist{
+  color: #c77;
+  display: inline-block;
+  border: solid teal 4px;
+  padding: 5px;
+  margin-left: 5px;
+  background-color: #ccc;
+}
+
+#story{
+  font-size: 20;
+  font-family: fantasy;
+  color: #c77;
+  display: inline-block;
+  border: solid teal 4px;
+  padding: 3px;
+  margin: 100px;
+  background-color: #ccc;
+
+}
+
+#menu1 {
+  background-color: #ccc;
+  border: solid teal 4px;
+  display: inline;
+  margin-left: 350px;
+  padding: 5px;
+}
+
+#menu2 {
+  background-color: #ccc;
+  border: solid teal 4px;
+  display: inline;
+  margin: 75px;
+  padding: 5px;
+  float: none;
+}
+
+#menu3 {
+  background-color: #ccc;
+  border: solid teal 4px;
+  display: inline;
+  margin: 20px;
+  padding: 5px;
+}
+
+#farinataimg {
+  width: 200px;
+  margin-left: 75px;
+}
+
+#hummusimg{
+  width: 200px;
+  margin-left: 75px;
+}
+
+#dipimg{
+  width: 200px;
+  margin-left: 100px;
+  margin-bottom: 100px;
+  display: inline;
+  clear: both;
+}
+
+#blackimg{
+  width: 200px;
+  margin-left: 100px;
+}
+#dalimg{
+  width: 200px;
+  margin-left: 75px;
+  margin-bottom: 100px;
+}
+ #beancake{
+   width: 300px;
+   margin-left: 480px;
+ }
+#falafelimg{
+  width: 200px;
+  margin-left: 100px;
+  padding: 0px; 
+}
+
+#blackpeas {
+  width: 500px;
+  height: 300px;
+  margin-left: 400px;
+
+}
+#beansriceimg{
+  width: 200px;
+  margin-left: 100px;
+}
